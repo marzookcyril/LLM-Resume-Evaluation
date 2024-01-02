@@ -1,9 +1,9 @@
 # LLM-Resume-Evaluation
 
-## Overview:
+## Overview:
 LLM-Resume-Evaluation is an innovative project for the job application process. Leveraging state-of-the-art Language Model Matchers (LLMs). It tailors resumes to match the unique requirements of specific job offers. This method ensures that each resume is optimized to stand out and resonate with the expectations of prospective employers.
 
-## Key Features:
+## Key Features:
 1. Language Model Matchers (LLMs):
 Utilizes cutting-edge LLMs, including GPT-3, for intelligent and context-aware resume analysis.
 Understands job descriptions and candidate profiles to generate personalized content.
