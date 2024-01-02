@@ -1,0 +1,106 @@
+job offer : job_offer_sample = "*THIS POSITION IS REMOTE (Based in US)*\nFoot Locker Inc is seeking a Real Estate Project Coordinator to support the Global Leasing Team and manage the North American Real Estate Committee meetings and processes. Day to day tasks include obtaining and distributing internal approvals, preparing for scheduled real estate approval meetings, and securing supplementary storage and temporary store locations during construction periods. Additional support in analysis, reporting, communicating, and preparing for meetings and presentations is required.\n#LI-JG1\nOur global house-of-brands inspires and empowers youth culture. Relentlessly committed to fuel a shared passion for self-expression, we create unrivaled experiences at the heart of the sport and sneaker communities through the power of our people. If you want to be a part of something bigger than you can imagine, you’ve come to the right place. To learn more about the incredible impact we’re making on both our local and global communities, CLICK HERE!\n\nResponsibilities\nWork cross functionally to run the monthly North American real estate committee meetings including collection of deals, distributing meeting agendas, presentation decks, and post meeting minutes.\nManage temporary and storage deals for North America from start to finish\nObtain quality temporary and storage spaces as determined by the construction schedule and divisional needs\nNegotiate sound economic deals that hurdle while operating within the required time frame\nPrepare temporary and storage deals for approval\nAnalyze and negotiate license agreements for approved deals\nMonitor progress of approved deals to assure timely openings and closures that adhere to the signed license agreement\nAttend required informational and status meetings relating to storage and temporary store agreements\nMaintain a tracking system for deals in order to stay organized and provide frequent status updates\nUpdate Tenancy and Occupancy reports on a monthly basis and distribute to Real Estate Leasing team\nManage the DocuSign approval process.\nBe an active participant in Global Store Development process improvements.\nHandle the temporary and storage deals for North America from start to finish.\nNegotiate short-term permanent store leases as assigned by Director and VP of Leasing.\nAttend weekly/monthly meetings with Real Estate Leasing/Construction/Market Planning/Legal/Lease Administration/Divisional departments.\nMaintain continuous communication with internal and external partners to grow professional network and lead as an ambassador for store development and Foot Locker, Inc.\nCoordinate and schedule meetings, site visits, and other group events.\nAssist with special projects and perform other duties as assigned.\n\nQualifications\nMinimum of 2 - 3 years related work experience preferred.\nAssociates degree required; Bachelor’s degree preferred.\nProficiency with Microsoft Office Suite (Excel, Word, PowerPoint).\nExperience with DocuSign, Adobe Acrobat Pro, and Lucernex preferred.\nMust have solid written and oral communication skills.\nMust have excellent organizational skills and be detail oriented.\nPossess analytical skills and the ability to perform real estate related calculations and analysis.\nKnowledge of Real Estate/Leasing/Construction /Legal industry practices a plus.\nExperience or willingness to learn negotiation tactics.\nAbility to multi-task and manage time independently."
+-------------------- 
+-Analyzing data and creating presentations in Excel and PowerPoint to promote products
+-Filing paperwork and completing administrative tasks
+
+--------------------  
+-Organized a communication campaign that resulted in an increase of web traffic by 20% 
+-Created advertising ideas and campaigns that helped to increase sales by 15% 
+-Successfully organized and managed an agricultural trade show with over 200 exhibitors 
+-Developed and implemented a successful online marketing campaign
+
+-------------------- 
+-Analyzing data and creating presentations to promote products
+-Filling out paperwork and applications
+-Managing a fast-paced and ever-changing work environment
+--------------------------------------------------------------------------
+==============================================================
+job offer : 
+We’re seeking a talented Remote Senior Front End Developer with 5+ years of professional experience for our product and client project development team. Do you have experience working as a Front-End Developer? Do you take pride in delivering on time and above expectations? Do you enjoy working collaboratively with other software developers and designers? This might be the right role for you!\nRequired Skills:\n\n5+ years of experience building user-friendly web applications\nProficiency in React, React Native, Angular, or other modern JS frameworks\nDeep experience with HTML and CSS, with the ability to develop from scratch without relying on CSS frameworks like Bootstrap, Foundation, etc.\nAbility to create a custom keyframe animation, working knowledge of the ins and outs of flexbox, and experience with resolving cross-browser bugs\nExperience working in Photoshop, Sketch, or Illustrator to analyze designs and export assets\nStrong JavaScript development skills, understanding of new ES6 concepts\nExperience with ticketing systems like JIRA\nPackage manager and automation tool experience (npm, gulp, grunt, webpack)\nExperience with SASS/LESS\nBonus:\n\nExperience with mobile app development\nExperience with server-side scripting (PHP, .Net, Java, etc.)\nAgency experience working with visual & UX designers\nAbout You:\n\nCuriosity and excitement for new web technologies/techniques\nExperience with mobile-first, responsive web development\nSolid understanding of cross-browser/device issues and code solutions\nExcellent debugging and problem-solving skills\nExcellent time management, teamwork, and communication skills\nAbout Us:\n\nGenome is a rapidly growing digital innovation agency and startup incubator whose emphasis is placed squarely on producing the right solutions for our clients. Whether for a Fortune 100 Company or partnering with a recently funded startup, we deliver meaningful, innovative, and enduring interactive experiences while consistently pushing boundaries and employing unique tactics to solve complex problems as we bring their technology to market.\n\n\nThis role comes with the freedom to work from wherever life takes you, with the flexibility to change your location, reducing (if not eliminating) your commute, all while providing an internal company culture that shines for its team collaboration.
+
+-------------------- 
+-Analyzing data and creating presentations in Excel and PowerPoint to promote products
+-Filing paperwork and completing administrative tasks
+
+--------------------  
+-Organized a communication campaign that resulted in an increase of web traffic by 20% 
+-Created advertising ideas and campaigns that helped to increase sales by 15% 
+-Successfully organized and managed an agricultural trade show with over 200 exhibitors 
+-Developed and implemented a successful online marketing campaign
+
+-------------------- 
+-Analyzing data and creating presentations to promote products
+-Filling out paperwork and applications
+-Managing a fast-paced and ever-changing work environment
+
+================================================
+Real estate 
+-------------------- 
+-Analyzed data using Excel to make informed decisions about store locations and promotions
+-Created PowerPoint presentations to promote stores to potential customers
+-Filled out paperwork and applications for store permits and licenses
+
+-------------------- 
+-Successfully organized and executed a major marketing campaign that spanned multiple channels and delivered results that surpassed expectations.
+-Demonstrated ability to generate creative ideas for advertising and promotional initiatives.
+-Managed all aspects of a large trade show, including exhibitor coordination, venue selection, logistics, and on-site execution.
+-Developed and implemented an effective online marketing strategy that drove significant traffic to the company website and generated new leads.
+-Created a tight-knit community of producers through regular communication, events, and promotions.
+
+
+-------------------- 
+-Assisted with the analysis of data, prepared presentations for promotional purposes, and completed administrative tasks such as filing
+
+Skills that match the job requirements:
+-2-3 years of related work experience
+-Proficiency with Microsoft Office Suite
+
+-------------------- 
+
+-Managed and improved SEO for websites through page analysis and modification, as well as developing advertising campaigns on Google Ads (SEA) and keyword optimization
+-Analyzed data to develop digital and business strategies
+-Created newsletters using HTML coding
+-Developed applications and websites
+-Defined interfaces for CRMs
+
+-------------------- 
+-Managed confirmations for foreign exchange (FX), money market (MM), and Swift transactions
+-Followed up on validation of confirmations and configuration of funds
+-Worked with various teams, including front office (FO), middle office (MO), and back office (BO)
+-Fixed non-deliverable forwards (NDFs)
+-Resolved disputes
+-----------------------------------
+=======================================================
+finance job offer
+-------------------- 
+- Assisted in the development of new products, including Excel data analysis and PowerPoint presentations for product promotion
+- Completed quantitative analysis of market data to inform product development decisions
+- Provided administrative support to sales, trading, and hedging activities
+
+-------------------- 
+-Managed communications campaign, including developing advertising concepts and organizing a trade show for farmers
+-Created and executed online marketing campaign, built community for producers, coordinated team of marketing professionals
+
+-------------------- 
+- Assisted in the development of new products, including conducting analysis and creating presentations to promote the product
+- Conducted quantitative analysis of market data, helping to inform trading and hedging decisions
+- Managed documentation for various projects
+
+-------------------- 
+-Assisted in the development of new products, including conducting SEO analysis of web pages to identify ways to improve SEO ranking and creating advertising campaigns on Google Ads (SEA)
+-Analyzed data to identify trends and patterns, developed applications and websites, created HTML newsletters, designed CRM interfaces, and defined digital marketing strategies
+
+-------------------- 
+-Managed and reconciled confirmations for FX, MM, and Swift products
+-Followed up on the validation of confirmations and configured funds
+-Interfaced with the various teams (FO/MO/BO)
+-Fixed NDFs
+-Processed disputes
+-----------------------------------
+==================================================================
+
+
+
+
+
+

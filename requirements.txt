@@ -1,0 +1,5 @@
+openai
+resume-json-cli
+json2html
+pdfkit
+wkhtmltopdf

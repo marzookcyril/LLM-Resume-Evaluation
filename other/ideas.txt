@@ -1,0 +1,51 @@
+
+
+
+ETAPES 
+
+ETAPE 1 :
+Summarize job offer
+1 function with gpt3 call (node pipeline)
+
+
+ETAPE 2 : 
+    Get toutes les parts du cv de base (input format json ou autre)
+
+    def get_std_elements(raw_elements):
+        std_elements = []
+        for el in raw_elements : 
+            std_elements["content"] = el["content"] #Written description
+            std_elements["meta"] = el["meta"] #Written meta data (dates, job title etc)
+        return std_elements
+
+    get_std_elements(raw_experiences)
+    get_std_elements(raw_education)
+    get_std_elements(raw_projects)
+
+
+ETAPE 3 : 
+    Traitements et gpt3 sur les parts du cv
+    inputes : 
+    std_experiences
+    std_education
+    std_projets 
+
+    outputes target : 
+    exp_list = []
+    edu_list = []
+    pro_list = []
+
+    def rephrase_elements(std_list, type):
+        outpute = []
+        for element in std_list:
+            rephrased_content = call_gpt3(element["content"], type)
+            outpute.append(rephrased_content, element["meta"])
+        return outpute
+
+    exp_list = rephrase_elements(std_experiences, exp)
+    edu_list = rephrase_elements(std_education, edu)
+    pro_list = rephrase_elements(std_projets, proj)
+
+ETAPE 4 : 
+Reconstruction du cv en pdf
+
